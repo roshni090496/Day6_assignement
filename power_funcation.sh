@@ -13,3 +13,6 @@ function power()
 
 }
 power 2 3
+
+
+power function is 2^3=8
